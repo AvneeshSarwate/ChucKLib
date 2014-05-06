@@ -1,0 +1,14 @@
+Machine.add("1_Comparator.ck");
+Machine.add("2_BigList.ck");
+Machine.add("3_BigRB.ck");
+Machine.add("4_Chord.ck");
+Machine.add("5_Note.ck");
+Machine.add("6_Voice.ck");
+Machine.add("7_Part.ck");
+Machine.add("RBStrStr.ck");
+Machine.add("RBStrInt.ck");
+Machine.add("RBStrFlt.ck");
+Machine.add("RBStrObj.ck");
+Machine.add("StartSync.ck");
+Machine.add("Gapper.ck");
+Machine.add("Storage.ck");
